@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Chanel No. 5",
+        "price": 99.99,
+        "image": "https://www.chanel.com/images/c_2_2_0/chanel-no5-eau-de-parfum.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dior Sauvage",
+        "price": 89.99,
+        "image": "https://www.dior.com/couture/var/dior/storage/images/media/dior-fragrance/11.4-28523.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Yves Saint Laurent Black Opium",
+        "price": 79.99,
+        "image": "https://www.yslbeauty.com/on/demandware.static/-/Sites-ysl-master-catalog/default/dw6469b206/images/large/3605971280240.jpg"
+    }
+]
+
